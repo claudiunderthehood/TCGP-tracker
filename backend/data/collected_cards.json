@@ -1,0 +1,3722 @@
+[
+  {
+    "ID": "A1 001",
+    "Name": "Bulbasaur",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 002",
+    "Name": "Ivysaur",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 003",
+    "Name": "Venusaur",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 004",
+    "Name": "Venusaur ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.506126582278481,
+      "5": 2.024506329113924,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 005",
+    "Name": "Caterpie",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 006",
+    "Name": "Metapod",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 007",
+    "Name": "Butterfree",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 008",
+    "Name": "Weedle",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 009",
+    "Name": "Kakuna",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 010",
+    "Name": "Beedrill",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 011",
+    "Name": "Oddish",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 012",
+    "Name": "Gloom",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 013",
+    "Name": "Vileplume",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 014",
+    "Name": "Paras",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 015",
+    "Name": "Parasect",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 016",
+    "Name": "Venonat",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 017",
+    "Name": "Venomoth",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 018",
+    "Name": "Bellsprout",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 019",
+    "Name": "Weepinbell",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 020",
+    "Name": "Victreebel",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 021",
+    "Name": "Exeggcute",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 022",
+    "Name": "Exeggutor",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 023",
+    "Name": "Exeggutor ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.6247499999999999,
+      "5": 2.4989999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 024",
+    "Name": "Tangela",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 025",
+    "Name": "Scyther",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 026",
+    "Name": "Pinsir",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 027",
+    "Name": "Cottonee",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 028",
+    "Name": "Whimsicott",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 029",
+    "Name": "Petilil",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 030",
+    "Name": "Lilligant",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 031",
+    "Name": "Skiddo",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 032",
+    "Name": "Gogoat",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 033",
+    "Name": "Charmander",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 034",
+    "Name": "Charmeleon",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 035",
+    "Name": "Charizard",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 036",
+    "Name": "Charizard ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.6247499999999999,
+      "5": 2.4989999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 037",
+    "Name": "Vulpix",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 038",
+    "Name": "Ninetales",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 039",
+    "Name": "Growlithe",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 040",
+    "Name": "Arcanine",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 041",
+    "Name": "Arcanine ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.70805,
+      "5": 2.8322,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 042",
+    "Name": "Ponyta",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 043",
+    "Name": "Rapidash",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 044",
+    "Name": "Magmar",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 045",
+    "Name": "Flareon",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 046",
+    "Name": "Moltres",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 047",
+    "Name": "Moltres ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.6247499999999999,
+      "5": 2.4989999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 048",
+    "Name": "Heatmor",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 049",
+    "Name": "Salandit",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 050",
+    "Name": "Salazzle",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 051",
+    "Name": "Sizzlipede",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 052",
+    "Name": "Centiskorch",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 053",
+    "Name": "Squirtle",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 054",
+    "Name": "Wartortle",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 055",
+    "Name": "Blastoise",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 056",
+    "Name": "Blastoise ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.70805,
+      "5": 2.8322,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 057",
+    "Name": "Psyduck",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 058",
+    "Name": "Golduck",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 059",
+    "Name": "Poliwag",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 060",
+    "Name": "Poliwhirl",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 061",
+    "Name": "Poliwrath",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 062",
+    "Name": "Tentacool",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 063",
+    "Name": "Tentacruel",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 064",
+    "Name": "Seel",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 065",
+    "Name": "Dewgong",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 066",
+    "Name": "Shellder",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 067",
+    "Name": "Cloyster",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 068",
+    "Name": "Krabby",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 069",
+    "Name": "Kingler",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 070",
+    "Name": "Horsea",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 071",
+    "Name": "Seadra",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 072",
+    "Name": "Goldeen",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 073",
+    "Name": "Seaking",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 074",
+    "Name": "Staryu",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 075",
+    "Name": "Starmie",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 076",
+    "Name": "Starmie ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.6247499999999999,
+      "5": 2.4989999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 077",
+    "Name": "Magikarp",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 078",
+    "Name": "Gyarados",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 079",
+    "Name": "Lapras",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 080",
+    "Name": "Vaporeon",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 081",
+    "Name": "Omanyte",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 082",
+    "Name": "Omastar",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 083",
+    "Name": "Articuno",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 084",
+    "Name": "Articuno ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.506126582278481,
+      "5": 2.024506329113924,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 085",
+    "Name": "Ducklett",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 086",
+    "Name": "Swanna",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 087",
+    "Name": "Froakie",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 088",
+    "Name": "Frogadier",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 089",
+    "Name": "Greninja",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 090",
+    "Name": "Pyukumuku",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 091",
+    "Name": "Bruxish",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 092",
+    "Name": "Snom",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 093",
+    "Name": "Frosmoth",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 094",
+    "Name": "Pikachu",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 095",
+    "Name": "Raichu",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 096",
+    "Name": "Pikachu ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.70805,
+      "5": 2.8322,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 097",
+    "Name": "Magnemite",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 098",
+    "Name": "Magneton",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 099",
+    "Name": "Voltorb",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 100",
+    "Name": "Electrode",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 101",
+    "Name": "Electabuzz",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 102",
+    "Name": "Jolteon",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 103",
+    "Name": "Zapdos",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 104",
+    "Name": "Zapdos ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.70805,
+      "5": 2.8322,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 105",
+    "Name": "Blitzle",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 106",
+    "Name": "Zebstrika",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 107",
+    "Name": "Tynamo",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 108",
+    "Name": "Eelektrik",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 109",
+    "Name": "Eelektross",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 110",
+    "Name": "Helioptile",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 111",
+    "Name": "Heliolisk",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 112",
+    "Name": "Pincurchin",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 113",
+    "Name": "Clefairy",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 114",
+    "Name": "Clefable",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 115",
+    "Name": "Abra",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 116",
+    "Name": "Kadabra",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 117",
+    "Name": "Alakazam",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 118",
+    "Name": "Slowpoke",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 119",
+    "Name": "Slowbro",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 120",
+    "Name": "Gastly",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 121",
+    "Name": "Haunter",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 122",
+    "Name": "Gengar",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 123",
+    "Name": "Gengar ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.506126582278481,
+      "5": 2.024506329113924,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 124",
+    "Name": "Drowzee",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 125",
+    "Name": "Hypno",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 126",
+    "Name": "Mr. Mime",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 127",
+    "Name": "Jynx",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 128",
+    "Name": "Mewtwo",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 129",
+    "Name": "Mewtwo ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.506126582278481,
+      "5": 2.024506329113924,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 130",
+    "Name": "Ralts",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 131",
+    "Name": "Kirlia",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 132",
+    "Name": "Gardevoir",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 133",
+    "Name": "Woobat",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 134",
+    "Name": "Swoobat",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 135",
+    "Name": "Golett",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 136",
+    "Name": "Golurk",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 137",
+    "Name": "Sandshrew",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 138",
+    "Name": "Sandslash",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 139",
+    "Name": "Diglett",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 140",
+    "Name": "Dugtrio",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 141",
+    "Name": "Mankey",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 142",
+    "Name": "Primeape",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 143",
+    "Name": "Machop",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 144",
+    "Name": "Machoke",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 145",
+    "Name": "Machamp",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 146",
+    "Name": "Machamp ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.6247499999999999,
+      "5": 2.4989999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 147",
+    "Name": "Geodude",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 148",
+    "Name": "Graveler",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 149",
+    "Name": "Golem",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 150",
+    "Name": "Onix",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 151",
+    "Name": "Cubone",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 152",
+    "Name": "Marowak",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 153",
+    "Name": "Marowak ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.506126582278481,
+      "5": 2.024506329113924,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 154",
+    "Name": "Hitmonlee",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 155",
+    "Name": "Hitmonchan",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 156",
+    "Name": "Rhyhorn",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 157",
+    "Name": "Rhydon",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 158",
+    "Name": "Kabuto",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 159",
+    "Name": "Kabutops",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 160",
+    "Name": "Mienfoo",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 161",
+    "Name": "Mienshao",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 162",
+    "Name": "Clobbopus",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 163",
+    "Name": "Grapploct",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 164",
+    "Name": "Ekans",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 165",
+    "Name": "Arbok",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 166",
+    "Name": "Nidoran♀",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 167",
+    "Name": "Nidorina",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 168",
+    "Name": "Nidoqueen",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 169",
+    "Name": "Nidoran♂",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 170",
+    "Name": "Nidorino",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 171",
+    "Name": "Nidoking",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 172",
+    "Name": "Zubat",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 173",
+    "Name": "Golbat",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 174",
+    "Name": "Grimer",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 175",
+    "Name": "Muk",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 176",
+    "Name": "Koffing",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 177",
+    "Name": "Weezing",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 178",
+    "Name": "Mawile",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 179",
+    "Name": "Pawniard",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 180",
+    "Name": "Bisharp",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 181",
+    "Name": "Meltan",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 182",
+    "Name": "Melmetal",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 183",
+    "Name": "Dratini",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 184",
+    "Name": "Dragonair",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 185",
+    "Name": "Dragonite",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 186",
+    "Name": "Pidgey",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 187",
+    "Name": "Pidgeotto",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 188",
+    "Name": "Pidgeot",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 189",
+    "Name": "Rattata",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 190",
+    "Name": "Raticate",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 191",
+    "Name": "Spearow",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 192",
+    "Name": "Fearow",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 193",
+    "Name": "Jigglypuff",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 194",
+    "Name": "Wigglytuff",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 195",
+    "Name": "Wigglytuff ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.70805,
+      "5": 2.8322,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 196",
+    "Name": "Meowth",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 197",
+    "Name": "Persian",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 198",
+    "Name": "Farfetch'd",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 199",
+    "Name": "Doduo",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 200",
+    "Name": "Dodrio",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 201",
+    "Name": "Lickitung",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 202",
+    "Name": "Chansey",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 203",
+    "Name": "Kangaskhan",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.875,
+      "5": 7.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 204",
+    "Name": "Tauros",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 205",
+    "Name": "Ditto",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 206",
+    "Name": "Eevee",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 207",
+    "Name": "Eevee",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 208",
+    "Name": "Eevee",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 209",
+    "Name": "Porygon",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 210",
+    "Name": "Aerodactyl",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.518987341772152,
+      "5": 6.075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 211",
+    "Name": "Snorlax",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 2.125,
+      "5": 8.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 212",
+    "Name": "Minccino",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 213",
+    "Name": "Cinccino",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 3.9130434782608696,
+      "5": 2.608695652173913,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 214",
+    "Name": "Wooloo",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 215",
+    "Name": "Dubwool",
+    "Pack": "All",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 4.3478260869565215
+    }
+  },
+  {
+    "ID": "A1 216",
+    "Name": "Helix Fossil",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 42.5
+    }
+  },
+  {
+    "ID": "A1 217",
+    "Name": "Dome Fossil",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 37.5
+    }
+  },
+  {
+    "ID": "A1 218",
+    "Name": "Old Amber",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 30.379746835443036
+    }
+  },
+  {
+    "ID": "A1 219",
+    "Name": "Erika",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 220",
+    "Name": "Misty",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 221",
+    "Name": "Blaine",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 222",
+    "Name": "Koga",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 223",
+    "Name": "Giovanni",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 27.341772151898734,
+      "5": 18.227848101265824,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 224",
+    "Name": "Brock",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 225",
+    "Name": "Sabrina",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 33.75,
+      "5": 22.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 226",
+    "Name": "Lt. Surge",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 38.25,
+      "5": 25.5,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 227",
+    "Name": "Bulbasaur",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.781367088607595,
+      "5": 3.12546835443038,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 228",
+    "Name": "Gloom",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.9644999999999999,
+      "5": 3.8579999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 229",
+    "Name": "Pinsir",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.9644999999999999,
+      "5": 3.8579999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 230",
+    "Name": "Charmander",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.9644999999999999,
+      "5": 3.8579999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 231",
+    "Name": "Rapidash",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.9644999999999999,
+      "5": 3.8579999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 232",
+    "Name": "Squirtle",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.0931000000000002,
+      "5": 4.372400000000001,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 233",
+    "Name": "Gyarados",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.0931000000000002,
+      "5": 4.372400000000001,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 234",
+    "Name": "Lapras",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.9644999999999999,
+      "5": 3.8579999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 235",
+    "Name": "Electrode",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 1.0931000000000002,
+      "5": 4.372400000000001,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 236",
+    "Name": "Alakazam",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.9644999999999999,
+      "5": 3.8579999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 237",
+    "Name": "Slowpoke",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.9644999999999999,
+      "5": 3.8579999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 238",
+    "Name": "Diglett",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.0931000000000002,
+      "5": 4.372400000000001,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 239",
+    "Name": "Cubone",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.781367088607595,
+      "5": 3.12546835443038,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 240",
+    "Name": "Nidoqueen",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.0931000000000002,
+      "5": 4.372400000000001,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 241",
+    "Name": "Nidoking",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.0931000000000002,
+      "5": 4.372400000000001,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 242",
+    "Name": "Golbat",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.781367088607595,
+      "5": 3.12546835443038,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 243",
+    "Name": "Weezing",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.781367088607595,
+      "5": 3.12546835443038,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 244",
+    "Name": "Dragonite",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.781367088607595,
+      "5": 3.12546835443038,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 245",
+    "Name": "Pidgeot",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.781367088607595,
+      "5": 3.12546835443038,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 246",
+    "Name": "Meowth",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.9644999999999999,
+      "5": 3.8579999999999997,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 247",
+    "Name": "Ditto",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.781367088607595,
+      "5": 3.12546835443038,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 248",
+    "Name": "Eevee",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.0931000000000002,
+      "5": 4.372400000000001,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 249",
+    "Name": "Porygon",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.781367088607595,
+      "5": 3.12546835443038,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 250",
+    "Name": "Snorlax",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 1.0931000000000002,
+      "5": 4.372400000000001,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 251",
+    "Name": "Venusaur ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1518987341772152,
+      "5": 0.6075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 252",
+    "Name": "Exeggutor ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 253",
+    "Name": "Charizard ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 254",
+    "Name": "Arcanine ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 255",
+    "Name": "Moltres ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 256",
+    "Name": "Blastoise ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 257",
+    "Name": "Starmie ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 258",
+    "Name": "Articuno ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1518987341772152,
+      "5": 0.6075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 259",
+    "Name": "Pikachu ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 260",
+    "Name": "Zapdos ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 261",
+    "Name": "Gengar ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1518987341772152,
+      "5": 0.6075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 262",
+    "Name": "Mewtwo ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1518987341772152,
+      "5": 0.6075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 263",
+    "Name": "Machamp ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 264",
+    "Name": "Marowak ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1518987341772152,
+      "5": 0.6075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 265",
+    "Name": "Wigglytuff ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 266",
+    "Name": "Erika",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 267",
+    "Name": "Misty",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 268",
+    "Name": "Blaine",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 269",
+    "Name": "Koga",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1518987341772152,
+      "5": 0.6075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 270",
+    "Name": "Giovanni",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1518987341772152,
+      "5": 0.6075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 271",
+    "Name": "Brock",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 272",
+    "Name": "Sabrina",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 273",
+    "Name": "Lt. Surge",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 274",
+    "Name": "Moltres ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 275",
+    "Name": "Articuno ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1518987341772152,
+      "5": 0.6075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 276",
+    "Name": "Zapdos ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 277",
+    "Name": "Gengar ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1518987341772152,
+      "5": 0.6075949367088608,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 278",
+    "Name": "Machamp ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.1875,
+      "5": 0.75,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 279",
+    "Name": "Wigglytuff ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.2125,
+      "5": 0.85,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 280",
+    "Name": "Charizard ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.08325,
+      "5": 0.333,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 281",
+    "Name": "Pikachu ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.09435,
+      "5": 0.3774,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 282",
+    "Name": "Mewtwo ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆☆",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.06744303797468355,
+      "5": 0.2697721518987342,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 283",
+    "Name": "Mew",
+    "Pack": "Unlocked",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 284",
+    "Name": "Charizard ex",
+    "Pack": "All",
+    "Rarity": "♛",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.0017391304347826088,
+      "5": 0.006956521739130435,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 285",
+    "Name": "Pikachu ex",
+    "Pack": "All",
+    "Rarity": "♛",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0.0017391304347826088,
+      "5": 0.006956521739130435,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "A1 286",
+    "Name": "Mewtwo ex",
+    "Pack": "All",
+    "Rarity": "♛",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0.0017391304347826088,
+      "5": 0.006956521739130435,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 001",
+    "Name": "Potion",
+    "Pack": "Shop",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 002",
+    "Name": "X speed",
+    "Pack": "Shop",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 003",
+    "Name": "Hand scope",
+    "Pack": "Shop",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 004",
+    "Name": "Pokedex",
+    "Pack": "Shop",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 005",
+    "Name": "Poke ball",
+    "Pack": "Shop",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 006",
+    "Name": "Red card ",
+    "Pack": "Shop",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 007",
+    "Name": "Professor's Research",
+    "Pack": "Shop",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 008",
+    "Name": "???",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 009",
+    "Name": "Pikachu",
+    "Pack": "Shop",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 010",
+    "Name": "Mewtwo",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 011",
+    "Name": "Chansey",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 012",
+    "Name": "Meowth",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 013",
+    "Name": "Butterfree",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 014",
+    "Name": "Lapras ex",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 015",
+    "Name": "Pikachu",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 016",
+    "Name": "Clefairy",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 017",
+    "Name": "Mankey",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": true,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 018",
+    "Name": "Venusaur",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 019",
+    "Name": "Greninja",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 020",
+    "Name": "Haunter",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 021",
+    "Name": "Onix",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 022",
+    "Name": "Jigglypuff",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 023",
+    "Name": "Bulbasaur",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  },
+  {
+    "ID": "P-A 024",
+    "Name": "Magnemite",
+    "Pack": "???",
+    "Rarity": "",
+    "Owned": false,
+    "PositionProbabilities": {
+      "4": 0,
+      "5": 0,
+      "1-3": 0
+    }
+  }
+]
