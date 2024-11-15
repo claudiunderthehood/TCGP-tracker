@@ -1,0 +1,49 @@
+.collection-container {
+  padding: 1em;
+}
+
+.card {
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 8px;
+  color: black; /* Default dark text for readability */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Background colors for specific card types */
+.pikachu-card {
+  background-color: #ffeb3b; /* Yellow for Pikachu */
+}
+
+.charizard-card {
+  background-color: #ff7043; /* Orange for Charizard */
+}
+
+.mewtwo-card {
+  background-color: #9c27b0; /* Purple for Mewtwo */
+}
+
+/* General text color for all cards with lighter backgrounds */
+.default-text {
+  color: black;
+}
+
+/* Button styling */
+.owned-button {
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #333;
+  color: white;
+  font-weight: bold;
+}
+
+.position-probabilities ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.position-probabilities li {
+  margin: 0.5em 0;
+}

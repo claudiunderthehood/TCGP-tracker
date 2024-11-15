@@ -1,0 +1,25 @@
+<div class="stats-container">
+  <h2>Pokémon Collection Stats</h2>
+
+  <section class="package-stats">
+    <h3>Package Probabilities</h3>
+    <ul>
+      <li *ngFor="let pack of objectKeys(packageProbabilities)">
+        <strong>{{ pack }} Pack:</strong> {{ packageProbabilities[pack] | number: '1.2-2' }}% chance of finding a new card
+      </li>
+    </ul>
+  </section>
+
+  <section class="best-package">
+    <h3>Best Package to Open</h3>
+    <p>
+      <strong>{{ bestPackage.name }} Pack</strong> with a {{ bestPackage.probability | number: '1.2-2' }}% chance of finding a new card
+    </p>
+  </section>
+
+  <section class="ownership-stats">
+    <h3>Ownership Summary</h3>
+    <p><strong>Total Cards Owned:</strong> {{ totalOwned }}</p>
+    <p><strong>Total Cards Missing:</strong> {{ totalMissing }}</p>
+  </section>
+</div>
