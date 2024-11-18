@@ -72,7 +72,7 @@ Make sure you have the following installed:
      ```
    - Start the **frontend app**:
      ```bash
-     cd ../frontend
+     cd ../pokemon-collection-frontend
      ng serve
      ```
 
@@ -86,11 +86,11 @@ Make sure you have the following installed:
 ## 🧩 Project Structure
 
 ```
-pokemon-collection-tracker/
+TCGP-tracker/
 ├── backend/
 │   ├── data/                  # JSON files for card data and collection
 │   ├── server.js              # Node.js backend
-├── frontend/
+├── pokemon-collection-frontend/
 │   ├── src/
 │   │   ├── app/
 │   │   │   ├── components/    # Angular components (Collection, Stats, etc.)
