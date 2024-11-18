@@ -1,13 +1,33 @@
-.collection-container {
-  padding: 1em;
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffefd5; /* Example for default background */
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-info {
+  text-align: left;
+  margin-top: 1rem;
 }
 
 .card {
-  padding: 1em;
-  margin: 1em 0;
-  border-radius: 8px;
-  color: black; /* Default dark text for readability */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.card img {
+  max-width: 100%; /* Ensure the image doesn't overflow */
+  max-height: 200px; /* Limit the height of the image */
+  display: block;
+  margin: 0 auto; /* Center the image */
 }
 
 /* Background colors for specific card types */
@@ -28,15 +48,19 @@
   color: black;
 }
 
-/* Button styling */
+
 .owned-button {
-  padding: 0.5em 1em;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
   background-color: #333;
-  color: white;
-  font-weight: bold;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.owned-button:hover {
+  background-color: #555;
 }
 
 .position-probabilities ul {
@@ -46,4 +70,28 @@
 
 .position-probabilities li {
   margin: 0.5em 0;
+}
+
+.card-image {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.card-details {
+  text-align: center;
+}
+
+.all-card {
+  border: 2px solid #808080; /* Neutral gray border */
+  color: #ffa500; /* Use a bright orange/gold text color */
+}
+
+.all-card p {
+  color: #ffa500; /* Consistent text color */
+}
+
+.all-card ul li {
+  color: #ffa500; /* Ensure list text is also visible */
 }

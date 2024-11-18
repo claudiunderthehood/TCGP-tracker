@@ -1,28 +1,26 @@
-<div class="collection-container">
-  <h2>Pokémon Collection</h2>
-
-  <div
-    *ngFor="let card of collection"
-    class="card"
-    [ngClass]="{
-      'pikachu-card': card.Pack === 'Pikachu',
-      'charizard-card': card.Pack === 'Charizard',
-      'mewtwo-card': card.Pack === 'Mewtwo',
-      'default-text': card.Pack !== 'Pikachu' && card.Pack !== 'Charizard' && card.Pack !== 'Mewtwo'
-    }"
-  >
-    <strong>ID:</strong> {{ card.ID }} - <strong>Name:</strong> {{ card.Name }}
-    <p>Pack: {{ card.Pack }} - Rarity: {{ card.Rarity }}</p>
-
-    <div class="position-probabilities">
-      <p><strong>Chance in positions:</strong></p>
-      <ul>
-        <li>First-Third: {{ card.PositionProbabilities['1-3'] | number: '1.2-2' }}%</li>
-        <li>Fourth: {{ card.PositionProbabilities['4'] | number: '1.2-2' }}%</li>
-        <li>Fifth: {{ card.PositionProbabilities['5'] | number: '1.2-2' }}%</li>
-      </ul>
-    </div>
-
+<div class="card" *ngFor="let card of collection" 
+  [ngClass]="{ 
+    'pikachu-card': card.Pack === 'Pikachu', 
+    'charizard-card': card.Pack === 'Charizard', 
+    'mewtwo-card': card.Pack === 'Mewtwo',
+    'all-card': card.Pack === 'All' 
+  }">
+  <img 
+    [src]="'assets/' + (card.ID.replace(' ', '_')) + '_EN.webp'" 
+    [alt]="card.Name" 
+    (error)="handleImageError($event)" 
+  />
+  <div class="card-info">
+    <p><strong>ID:</strong> {{ card.ID }}</p>
+    <p><strong>Name:</strong> {{ card.Name }}</p>
+    <p><strong>Pack:</strong> {{ card.Pack }} - <strong>Rarity:</strong> {{ card.Rarity }}</p>
+    <p *ngIf="card.Pack === 'All'" class="special-text">This card is available in all packs!</p>
+    <p><strong>Chance in positions:</strong></p>
+    <ul>
+      <li>First-Third: {{ positionProbabilities[card.ID]['1-3'] | number: '1.2-2' }}%</li>
+      <li>Fourth: {{ positionProbabilities[card.ID]['4'] | number: '1.2-2' }}%</li>
+      <li>Fifth: {{ positionProbabilities[card.ID]['5'] | number: '1.2-2' }}%</li>
+    </ul>
     <button class="owned-button" (click)="toggleOwnership(card)">
       {{ card.Owned ? 'Owned' : 'Not Owned' }}
     </button>

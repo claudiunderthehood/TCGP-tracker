@@ -8,7 +8,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -18,8 +18,8 @@
     "Rarity": "♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -30,8 +30,8 @@
     "Rarity": "♢♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -42,8 +42,8 @@
     "Rarity": "♢♢♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 0.506126582278481,
-      "5": 2.024506329113924,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -56,7 +56,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -68,7 +68,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -78,8 +78,8 @@
     "Rarity": "♢♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -92,7 +92,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -100,11 +100,11 @@
     "Name": "Kakuna",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": false,
+    "Owned": true,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -112,10 +112,10 @@
     "Name": "Beedrill",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢",
-    "Owned": false,
+    "Owned": true,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -128,7 +128,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -136,10 +136,10 @@
     "Name": "Gloom",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -150,8 +150,8 @@
     "Rarity": "♢♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -164,7 +164,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -174,8 +174,8 @@
     "Rarity": "♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -188,7 +188,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -198,8 +198,8 @@
     "Rarity": "♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -208,11 +208,11 @@
     "Name": "Bellsprout",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -222,8 +222,8 @@
     "Rarity": "♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -232,10 +232,10 @@
     "Name": "Victreebel",
     "Pack": "Charizard",
     "Rarity": "♢♢♢",
-    "Owned": false,
+    "Owned": true,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -244,11 +244,11 @@
     "Name": "Exeggcute",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -258,8 +258,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -270,8 +270,8 @@
     "Rarity": "♢♢♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 0.6247499999999999,
-      "5": 2.4989999999999997,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -280,11 +280,11 @@
     "Name": "Tangela",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -292,11 +292,11 @@
     "Name": "Scyther",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -304,10 +304,10 @@
     "Name": "Pinsir",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -316,11 +316,11 @@
     "Name": "Cottonee",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -328,10 +328,10 @@
     "Name": "Whimsicott",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -340,11 +340,11 @@
     "Name": "Petilil",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -352,10 +352,10 @@
     "Name": "Lilligant",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -364,11 +364,11 @@
     "Name": "Skiddo",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -376,11 +376,11 @@
     "Name": "Gogoat",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -388,11 +388,11 @@
     "Name": "Charmander",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -400,10 +400,10 @@
     "Name": "Charmeleon",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -412,10 +412,10 @@
     "Name": "Charizard",
     "Pack": "Charizard",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -424,10 +424,10 @@
     "Name": "Charizard ex",
     "Pack": "Charizard",
     "Rarity": "♢♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.6247499999999999,
-      "5": 2.4989999999999997,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -440,7 +440,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -450,8 +450,8 @@
     "Rarity": "♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -464,7 +464,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -474,8 +474,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -484,10 +484,10 @@
     "Name": "Arcanine ex",
     "Pack": "Pikachu",
     "Rarity": "♢♢♢♢",
-    "Owned": false,
+    "Owned": true,
     "PositionProbabilities": {
-      "4": 0.70805,
-      "5": 2.8322,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -496,11 +496,11 @@
     "Name": "Ponyta",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -508,10 +508,10 @@
     "Name": "Rapidash",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -520,11 +520,11 @@
     "Name": "Magmar",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -534,8 +534,8 @@
     "Rarity": "♢♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -546,8 +546,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -556,10 +556,10 @@
     "Name": "Moltres ex",
     "Pack": "Charizard",
     "Rarity": "♢♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.6247499999999999,
-      "5": 2.4989999999999997,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -568,11 +568,11 @@
     "Name": "Heatmor",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -580,11 +580,11 @@
     "Name": "Salandit",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -592,11 +592,11 @@
     "Name": "Salazzle",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -604,11 +604,11 @@
     "Name": "Sizzlipede",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -616,10 +616,10 @@
     "Name": "Centiskorch",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -628,11 +628,11 @@
     "Name": "Squirtle",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -642,8 +642,8 @@
     "Rarity": "♢♢",
     "Owned": true,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -654,8 +654,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -666,8 +666,8 @@
     "Rarity": "♢♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.70805,
-      "5": 2.8322,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -676,11 +676,11 @@
     "Name": "Psyduck",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -688,10 +688,10 @@
     "Name": "Golduck",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -700,11 +700,11 @@
     "Name": "Poliwag",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -714,8 +714,8 @@
     "Rarity": "♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -724,10 +724,10 @@
     "Name": "Poliwrath",
     "Pack": "Charizard",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -736,11 +736,11 @@
     "Name": "Tentacool",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -750,8 +750,8 @@
     "Rarity": "♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -760,11 +760,11 @@
     "Name": "Seel",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -774,8 +774,8 @@
     "Rarity": "♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -784,11 +784,11 @@
     "Name": "Shellder",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -796,10 +796,10 @@
     "Name": "Cloyster",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -808,11 +808,11 @@
     "Name": "Krabby",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -820,10 +820,10 @@
     "Name": "Kingler",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -836,7 +836,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -844,10 +844,10 @@
     "Name": "Seadra",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -856,11 +856,11 @@
     "Name": "Goldeen",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -868,11 +868,11 @@
     "Name": "Seaking",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -880,11 +880,11 @@
     "Name": "Staryu",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -892,10 +892,10 @@
     "Name": "Starmie",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -904,10 +904,10 @@
     "Name": "Starmie ex",
     "Pack": "Charizard",
     "Rarity": "♢♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.6247499999999999,
-      "5": 2.4989999999999997,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -920,7 +920,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -930,8 +930,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -942,8 +942,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -952,10 +952,10 @@
     "Name": "Vaporeon",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -964,10 +964,10 @@
     "Name": "Omanyte",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -978,8 +978,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -988,10 +988,10 @@
     "Name": "Articuno",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1002,8 +1002,8 @@
     "Rarity": "♢♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.506126582278481,
-      "5": 2.024506329113924,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -1012,11 +1012,11 @@
     "Name": "Ducklett",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -1024,10 +1024,10 @@
     "Name": "Swanna",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1040,7 +1040,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -1050,8 +1050,8 @@
     "Rarity": "♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1062,8 +1062,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1076,7 +1076,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -1084,10 +1084,10 @@
     "Name": "Bruxish",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1096,11 +1096,11 @@
     "Name": "Snom",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1108,10 +1108,10 @@
     "Name": "Frosmoth",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1124,7 +1124,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1132,10 +1132,10 @@
     "Name": "Raichu",
     "Pack": "Pikachu",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1144,10 +1144,10 @@
     "Name": "Pikachu ex",
     "Pack": "Pikachu",
     "Rarity": "♢♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.70805,
-      "5": 2.8322,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -1156,11 +1156,11 @@
     "Name": "Magnemite",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1170,8 +1170,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1180,11 +1180,11 @@
     "Name": "Voltorb",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1192,10 +1192,10 @@
     "Name": "Electrode",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1204,11 +1204,11 @@
     "Name": "Electabuzz",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1216,10 +1216,10 @@
     "Name": "Jolteon",
     "Pack": "Pikachu",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1230,8 +1230,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1240,10 +1240,10 @@
     "Name": "Zapdos ex",
     "Pack": "Pikachu",
     "Rarity": "♢♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.70805,
-      "5": 2.8322,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -1252,11 +1252,11 @@
     "Name": "Blitzle",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1264,10 +1264,10 @@
     "Name": "Zebstrika",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1276,11 +1276,11 @@
     "Name": "Tynamo",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -1288,10 +1288,10 @@
     "Name": "Eelektrik",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1300,10 +1300,10 @@
     "Name": "Eelektross",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1312,11 +1312,11 @@
     "Name": "Helioptile",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1324,11 +1324,11 @@
     "Name": "Heliolisk",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1336,10 +1336,10 @@
     "Name": "Pincurchin",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1348,11 +1348,11 @@
     "Name": "Clefairy",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1360,10 +1360,10 @@
     "Name": "Clefable",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1372,11 +1372,11 @@
     "Name": "Abra",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -1386,8 +1386,8 @@
     "Rarity": "♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1398,8 +1398,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1408,11 +1408,11 @@
     "Name": "Slowpoke",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1420,10 +1420,10 @@
     "Name": "Slowbro",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1432,11 +1432,11 @@
     "Name": "Gastly",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -1444,10 +1444,10 @@
     "Name": "Haunter",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1456,10 +1456,10 @@
     "Name": "Gengar",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1470,8 +1470,8 @@
     "Rarity": "♢♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.506126582278481,
-      "5": 2.024506329113924,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -1480,11 +1480,11 @@
     "Name": "Drowzee",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1492,10 +1492,10 @@
     "Name": "Hypno",
     "Pack": "Pikachu",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1504,10 +1504,10 @@
     "Name": "Mr. Mime",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1516,11 +1516,11 @@
     "Name": "Jynx",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -1528,10 +1528,10 @@
     "Name": "Mewtwo",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1540,10 +1540,10 @@
     "Name": "Mewtwo ex",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.506126582278481,
-      "5": 2.024506329113924,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -1552,11 +1552,11 @@
     "Name": "Ralts",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -1564,10 +1564,10 @@
     "Name": "Kirlia",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1576,10 +1576,10 @@
     "Name": "Gardevoir",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1588,11 +1588,11 @@
     "Name": "Woobat",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1600,11 +1600,11 @@
     "Name": "Swoobat",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1612,11 +1612,11 @@
     "Name": "Golett",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1624,10 +1624,10 @@
     "Name": "Golurk",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1636,11 +1636,11 @@
     "Name": "Sandshrew",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1648,10 +1648,10 @@
     "Name": "Sandslash",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1660,11 +1660,11 @@
     "Name": "Diglett",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1672,10 +1672,10 @@
     "Name": "Dugtrio",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1684,11 +1684,11 @@
     "Name": "Mankey",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -1698,8 +1698,8 @@
     "Rarity": "♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1708,11 +1708,11 @@
     "Name": "Machop",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -1720,10 +1720,10 @@
     "Name": "Machoke",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1734,8 +1734,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1744,10 +1744,10 @@
     "Name": "Machamp ex",
     "Pack": "Charizard",
     "Rarity": "♢♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.6247499999999999,
-      "5": 2.4989999999999997,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -1756,11 +1756,11 @@
     "Name": "Geodude",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1768,10 +1768,10 @@
     "Name": "Graveler",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1782,8 +1782,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1792,10 +1792,10 @@
     "Name": "Onix",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1804,11 +1804,11 @@
     "Name": "Cubone",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -1816,10 +1816,10 @@
     "Name": "Marowak",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1828,10 +1828,10 @@
     "Name": "Marowak ex",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.506126582278481,
-      "5": 2.024506329113924,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -1840,11 +1840,11 @@
     "Name": "Hitmonlee",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -1852,11 +1852,11 @@
     "Name": "Hitmonchan",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -1864,11 +1864,11 @@
     "Name": "Rhyhorn",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -1876,10 +1876,10 @@
     "Name": "Rhydon",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1888,10 +1888,10 @@
     "Name": "Kabuto",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1902,8 +1902,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -1912,11 +1912,11 @@
     "Name": "Mienfoo",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1924,10 +1924,10 @@
     "Name": "Mienshao",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1936,11 +1936,11 @@
     "Name": "Clobbopus",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1948,10 +1948,10 @@
     "Name": "Grapploct",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1960,11 +1960,11 @@
     "Name": "Ekans",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -1972,10 +1972,10 @@
     "Name": "Arbok",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -1984,11 +1984,11 @@
     "Name": "Nidoran♀",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -1998,8 +1998,8 @@
     "Rarity": "♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2008,10 +2008,10 @@
     "Name": "Nidoqueen",
     "Pack": "Pikachu",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2020,11 +2020,11 @@
     "Name": "Nidoran♂",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -2032,10 +2032,10 @@
     "Name": "Nidorino",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2044,10 +2044,10 @@
     "Name": "Nidoking",
     "Pack": "Pikachu",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2056,11 +2056,11 @@
     "Name": "Zubat",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -2068,10 +2068,10 @@
     "Name": "Golbat",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2080,11 +2080,11 @@
     "Name": "Grimer",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -2094,8 +2094,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2104,11 +2104,11 @@
     "Name": "Koffing",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -2118,8 +2118,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2128,11 +2128,11 @@
     "Name": "Mawile",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -2140,11 +2140,11 @@
     "Name": "Pawniard",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -2152,10 +2152,10 @@
     "Name": "Bisharp",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2164,11 +2164,11 @@
     "Name": "Meltan",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -2176,10 +2176,10 @@
     "Name": "Melmetal",
     "Pack": "Charizard",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2188,11 +2188,11 @@
     "Name": "Dratini",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -2200,10 +2200,10 @@
     "Name": "Dragonair",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2212,10 +2212,10 @@
     "Name": "Dragonite",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2224,11 +2224,11 @@
     "Name": "Pidgey",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -2236,11 +2236,11 @@
     "Name": "Pidgeotto",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -2250,8 +2250,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2260,11 +2260,11 @@
     "Name": "Rattata",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -2272,11 +2272,11 @@
     "Name": "Raticate",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -2284,11 +2284,11 @@
     "Name": "Spearow",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -2296,11 +2296,11 @@
     "Name": "Fearow",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -2308,11 +2308,11 @@
     "Name": "Jigglypuff",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -2320,11 +2320,11 @@
     "Name": "Wigglytuff",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -2332,10 +2332,10 @@
     "Name": "Wigglytuff ex",
     "Pack": "Pikachu",
     "Rarity": "♢♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.70805,
-      "5": 2.8322,
+      "4": 1.666,
+      "5": 6.664,
       "1-3": 0
     }
   },
@@ -2344,11 +2344,11 @@
     "Name": "Meowth",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -2356,10 +2356,10 @@
     "Name": "Persian",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2368,11 +2368,11 @@
     "Name": "Farfetch'd",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -2380,11 +2380,11 @@
     "Name": "Doduo",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -2392,10 +2392,10 @@
     "Name": "Dodrio",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2404,10 +2404,10 @@
     "Name": "Lickitung",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2416,10 +2416,10 @@
     "Name": "Chansey",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2430,8 +2430,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.875,
-      "5": 7.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2440,10 +2440,10 @@
     "Name": "Tauros",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2452,10 +2452,10 @@
     "Name": "Ditto",
     "Pack": "Mewtwo",
     "Rarity": "♢♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2464,11 +2464,11 @@
     "Name": "Eevee",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -2476,11 +2476,11 @@
     "Name": "Eevee",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -2488,11 +2488,11 @@
     "Name": "Eevee",
     "Pack": "Pikachu",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -2502,8 +2502,8 @@
     "Rarity": "♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2514,8 +2514,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.518987341772152,
-      "5": 6.075949367088608,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2526,8 +2526,8 @@
     "Rarity": "♢♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 2.125,
-      "5": 8.5,
+      "4": 5,
+      "5": 20,
       "1-3": 0
     }
   },
@@ -2536,11 +2536,11 @@
     "Name": "Minccino",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -2548,10 +2548,10 @@
     "Name": "Cinccino",
     "Pack": "All",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 3.9130434782608696,
-      "5": 2.608695652173913,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2560,11 +2560,11 @@
     "Name": "Wooloo",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -2572,11 +2572,11 @@
     "Name": "Dubwool",
     "Pack": "All",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 4.3478260869565215
+      "1-3": 100
     }
   },
   {
@@ -2588,7 +2588,7 @@
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 42.5
+      "1-3": 100
     }
   },
   {
@@ -2596,11 +2596,11 @@
     "Name": "Dome Fossil",
     "Pack": "Charizard",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 37.5
+      "1-3": 100
     }
   },
   {
@@ -2608,11 +2608,11 @@
     "Name": "Old Amber",
     "Pack": "Mewtwo",
     "Rarity": "♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
-      "1-3": 30.379746835443036
+      "1-3": 100
     }
   },
   {
@@ -2622,8 +2622,8 @@
     "Rarity": "♢♢",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2632,10 +2632,10 @@
     "Name": "Misty",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2644,10 +2644,10 @@
     "Name": "Blaine",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2656,10 +2656,10 @@
     "Name": "Koga",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2668,10 +2668,10 @@
     "Name": "Giovanni",
     "Pack": "Mewtwo",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 27.341772151898734,
-      "5": 18.227848101265824,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2680,10 +2680,10 @@
     "Name": "Brock",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2692,10 +2692,10 @@
     "Name": "Sabrina",
     "Pack": "Charizard",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 33.75,
-      "5": 22.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2704,10 +2704,10 @@
     "Name": "Lt. Surge",
     "Pack": "Pikachu",
     "Rarity": "♢♢",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 38.25,
-      "5": 25.5,
+      "4": 90,
+      "5": 60,
       "1-3": 0
     }
   },
@@ -2716,10 +2716,10 @@
     "Name": "Bulbasaur",
     "Pack": "Mewtwo",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.781367088607595,
-      "5": 3.12546835443038,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2728,10 +2728,10 @@
     "Name": "Gloom",
     "Pack": "Charizard",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.9644999999999999,
-      "5": 3.8579999999999997,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2742,8 +2742,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.9644999999999999,
-      "5": 3.8579999999999997,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2754,8 +2754,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.9644999999999999,
-      "5": 3.8579999999999997,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2764,10 +2764,10 @@
     "Name": "Rapidash",
     "Pack": "Charizard",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.9644999999999999,
-      "5": 3.8579999999999997,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2778,8 +2778,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.0931000000000002,
-      "5": 4.372400000000001,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2790,8 +2790,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.0931000000000002,
-      "5": 4.372400000000001,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2800,10 +2800,10 @@
     "Name": "Lapras",
     "Pack": "Charizard",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.9644999999999999,
-      "5": 3.8579999999999997,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2812,10 +2812,10 @@
     "Name": "Electrode",
     "Pack": "Pikachu",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 1.0931000000000002,
-      "5": 4.372400000000001,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2824,10 +2824,10 @@
     "Name": "Alakazam",
     "Pack": "Charizard",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.9644999999999999,
-      "5": 3.8579999999999997,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2838,8 +2838,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.9644999999999999,
-      "5": 3.8579999999999997,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2850,8 +2850,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.0931000000000002,
-      "5": 4.372400000000001,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2860,10 +2860,10 @@
     "Name": "Cubone",
     "Pack": "Mewtwo",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.781367088607595,
-      "5": 3.12546835443038,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2874,8 +2874,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.0931000000000002,
-      "5": 4.372400000000001,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2886,8 +2886,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.0931000000000002,
-      "5": 4.372400000000001,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2896,10 +2896,10 @@
     "Name": "Golbat",
     "Pack": "Mewtwo",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.781367088607595,
-      "5": 3.12546835443038,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2908,10 +2908,10 @@
     "Name": "Weezing",
     "Pack": "Mewtwo",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.781367088607595,
-      "5": 3.12546835443038,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2922,8 +2922,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.781367088607595,
-      "5": 3.12546835443038,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2934,8 +2934,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.781367088607595,
-      "5": 3.12546835443038,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2944,10 +2944,10 @@
     "Name": "Meowth",
     "Pack": "Charizard",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.9644999999999999,
-      "5": 3.8579999999999997,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2958,8 +2958,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.781367088607595,
-      "5": 3.12546835443038,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2970,8 +2970,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.0931000000000002,
-      "5": 4.372400000000001,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2980,10 +2980,10 @@
     "Name": "Porygon",
     "Pack": "Mewtwo",
     "Rarity": "☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.781367088607595,
-      "5": 3.12546835443038,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -2994,8 +2994,8 @@
     "Rarity": "☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 1.0931000000000002,
-      "5": 4.372400000000001,
+      "4": 2.572,
+      "5": 10.288,
       "1-3": 0
     }
   },
@@ -3006,8 +3006,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1518987341772152,
-      "5": 0.6075949367088608,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3018,8 +3018,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3030,8 +3030,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3040,10 +3040,10 @@
     "Name": "Arcanine ex",
     "Pack": "Pikachu",
     "Rarity": "☆☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3054,8 +3054,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3066,8 +3066,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3078,8 +3078,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3090,8 +3090,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1518987341772152,
-      "5": 0.6075949367088608,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3102,8 +3102,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3114,8 +3114,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3126,8 +3126,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1518987341772152,
-      "5": 0.6075949367088608,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3138,8 +3138,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1518987341772152,
-      "5": 0.6075949367088608,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3150,8 +3150,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3162,8 +3162,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1518987341772152,
-      "5": 0.6075949367088608,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3172,10 +3172,10 @@
     "Name": "Wigglytuff ex",
     "Pack": "Pikachu",
     "Rarity": "☆☆",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3186,8 +3186,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3198,8 +3198,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3210,8 +3210,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3222,8 +3222,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1518987341772152,
-      "5": 0.6075949367088608,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3234,8 +3234,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1518987341772152,
-      "5": 0.6075949367088608,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3246,8 +3246,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3258,8 +3258,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3270,8 +3270,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3282,8 +3282,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3294,8 +3294,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1518987341772152,
-      "5": 0.6075949367088608,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3306,8 +3306,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3318,8 +3318,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1518987341772152,
-      "5": 0.6075949367088608,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3330,8 +3330,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.1875,
-      "5": 0.75,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3342,8 +3342,8 @@
     "Rarity": "☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.2125,
-      "5": 0.85,
+      "4": 0.5,
+      "5": 2,
       "1-3": 0
     }
   },
@@ -3354,8 +3354,8 @@
     "Rarity": "☆☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.08325,
-      "5": 0.333,
+      "4": 0.222,
+      "5": 0.888,
       "1-3": 0
     }
   },
@@ -3366,8 +3366,8 @@
     "Rarity": "☆☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.09435,
-      "5": 0.3774,
+      "4": 0.222,
+      "5": 0.888,
       "1-3": 0
     }
   },
@@ -3378,8 +3378,8 @@
     "Rarity": "☆☆☆",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.06744303797468355,
-      "5": 0.2697721518987342,
+      "4": 0.222,
+      "5": 0.888,
       "1-3": 0
     }
   },
@@ -3402,8 +3402,8 @@
     "Rarity": "♛",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.0017391304347826088,
-      "5": 0.006956521739130435,
+      "4": 0.04,
+      "5": 0.16,
       "1-3": 0
     }
   },
@@ -3412,10 +3412,10 @@
     "Name": "Pikachu ex",
     "Pack": "All",
     "Rarity": "♛",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
-      "4": 0.0017391304347826088,
-      "5": 0.006956521739130435,
+      "4": 0.04,
+      "5": 0.16,
       "1-3": 0
     }
   },
@@ -3426,8 +3426,8 @@
     "Rarity": "♛",
     "Owned": false,
     "PositionProbabilities": {
-      "4": 0.0017391304347826088,
-      "5": 0.006956521739130435,
+      "4": 0.04,
+      "5": 0.16,
       "1-3": 0
     }
   },
@@ -3436,7 +3436,7 @@
     "Name": "Potion",
     "Pack": "Shop",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3448,7 +3448,7 @@
     "Name": "X speed",
     "Pack": "Shop",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3460,7 +3460,7 @@
     "Name": "Hand scope",
     "Pack": "Shop",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3472,7 +3472,7 @@
     "Name": "Pokedex",
     "Pack": "Shop",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3484,7 +3484,7 @@
     "Name": "Poke ball",
     "Pack": "Shop",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3496,7 +3496,7 @@
     "Name": "Red card ",
     "Pack": "Shop",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3508,7 +3508,7 @@
     "Name": "Professor's Research",
     "Pack": "Shop",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3556,7 +3556,7 @@
     "Name": "Chansey",
     "Pack": "???",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3580,7 +3580,7 @@
     "Name": "Butterfree",
     "Pack": "???",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3592,7 +3592,7 @@
     "Name": "Lapras ex",
     "Pack": "???",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3604,7 +3604,7 @@
     "Name": "Pikachu",
     "Pack": "???",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3616,7 +3616,7 @@
     "Name": "Clefairy",
     "Pack": "???",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,
@@ -3628,7 +3628,7 @@
     "Name": "Mankey",
     "Pack": "???",
     "Rarity": "",
-    "Owned": true,
+    "Owned": false,
     "PositionProbabilities": {
       "4": 0,
       "5": 0,

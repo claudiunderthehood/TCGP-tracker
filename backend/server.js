@@ -24,18 +24,22 @@ function initializeCollection() {
 }
 
 function calculateProbabilities() {
-  // Read and parse the collection data
   const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
 
-  // Define probabilities for rarities
   const rarityProbabilities = {
-    // ... existing rarity probabilities
+    "♢": { "1-3": 100.0, "4": 0.0, "5": 0.0 },
+    "♢♢": { "1-3": 0.0, "4": 90.0, "5": 60.0 },
+    "♢♢♢": { "1-3": 0.0, "4": 5.0, "5": 20.0 },
+    "♢♢♢♢": { "1-3": 0.0, "4": 1.666, "5": 6.664 },
+    "☆": { "1-3": 0.0, "4": 2.572, "5": 10.288 },
+    "☆☆": { "1-3": 0.0, "4": 0.5, "5": 2.0 },
+    "☆☆☆": { "1-3": 0.0, "4": 0.222, "5": 0.888 },
+    "♛": { "1-3": 0.0, "4": 0.04, "5": 0.16 },
   };
 
   const packageProbabilities = {};
   const positionProbabilities = {};
 
-  // Calculate package probabilities
   const packs = ["Mewtwo", "Pikachu", "Charizard"];
   packs.forEach(pack => {
     const totalInPack = data.filter(card => card.Pack === pack).length;
@@ -43,24 +47,33 @@ function calculateProbabilities() {
     packageProbabilities[pack] = ((totalInPack - ownedInPack) / totalInPack) * 100;
   });
 
-  // Determine the best package to open for new cards
   const bestPackage = Object.entries(packageProbabilities).reduce((best, [pack, prob]) => {
     return prob > best.probability ? { name: pack, probability: prob } : best;
   }, { name: '', probability: 0 });
 
-  // Assign position probabilities based on rarity
+  // Dynamically calculate position probabilities
   data.forEach(card => {
     const rarity = card.Rarity;
-    positionProbabilities[card.ID] = rarityProbabilities[rarity] || { "1-3": 0, "4": 0, "5": 0 };
+    const probabilities = rarityProbabilities[rarity] || { "1-3": 0, "4": 0, "5": 0 };
+
+    const totalForRarity = data.filter(c => c.Rarity === rarity && !c.Owned).length;
+    const ownedForRarity = data.filter(c => c.Rarity === rarity && c.Owned).length;
+
+    positionProbabilities[card.ID] = {
+      "1-3": probabilities["1-3"] * (1 - ownedForRarity / totalForRarity),
+      "4": probabilities["4"] * (1 - ownedForRarity / totalForRarity),
+      "5": probabilities["5"] * (1 - ownedForRarity / totalForRarity),
+    };
   });
 
   return {
     packageProbabilities,
     bestPackage,
     positionProbabilities,
-    collection: data // Include collection data
+    collection: data,
   };
 }
+
 
 app.get('/api/probabilities', (req, res) => {
   try {

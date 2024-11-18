@@ -5,10 +5,11 @@ import { Card } from '../models/card.model';
 @Component({
   selector: 'app-collection',
   templateUrl: './collection.component.html',
-  styleUrls: ['./collection.component.css']
+  styleUrls: ['./collection.component.css'],
 })
 export class CollectionComponent implements OnInit {
   collection: Card[] = [];
+  positionProbabilities: { [key: string]: { '1-3': number; '4': number; '5': number } } = {};
 
   constructor(private collectionService: CollectionService) {}
 
@@ -17,16 +18,31 @@ export class CollectionComponent implements OnInit {
   }
 
   loadCollection(): void {
-    this.collectionService.getCollection().subscribe((data: Card[]) => {
-      this.collection = data.map(card => ({
-        ...card,
-        PositionProbabilities: card.PositionProbabilities || { "1-3": 0, "4": 0, "5": 0 }
-      }));
+    this.collectionService.getProbabilities().subscribe((data: any) => {
+      this.collection = data.collection;
+      this.positionProbabilities = data.positionProbabilities;
     });
   }
 
   toggleOwnership(card: Card): void {
     card.Owned = !card.Owned;
-    this.collectionService.updateCollection(this.collection).subscribe();
+    this.updateCollection();
+  }
+
+  updateCollection(): void {
+    this.collectionService.updateCollection(this.collection).subscribe(() => {
+      this.refreshProbabilities();
+    });
+  }
+
+  refreshProbabilities(): void {
+    this.collectionService.getProbabilities().subscribe((data: any) => {
+      this.positionProbabilities = data.positionProbabilities;
+    });
+  }
+
+  handleImageError(event: Event): void {
+    const target = event.target as HTMLImageElement;
+    target.src = 'assets/A1.webp'; // Placeholder image
   }
 }
