@@ -109,6 +109,8 @@ app.post('/api/collection', (req, res) => {
   res.status(200).json({ message: 'Collection saved successfully' });
 });
 
+initializeCollection();
+
 // Start the server
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
