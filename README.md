@@ -46,40 +46,40 @@ Make sure you have the following installed:
 - **Node.js** (v16 or higher)
 - **Angular CLI** (v15 or higher)
 
-### Installation
-1. Clone the repository:
+### Installation and execution
+
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/claudiunderthehood/TCGP-tracker.git
    cd TCGP-tracker
    ```
 
-2. Install dependencies:
-   - **Frontend**:
+2. **Build and Run the Application with Docker**:
+   - Build and start the containers using `docker-compose`:
      ```bash
-     cd pokemon-collection-frontend/
-     npm install
-     ```
-   - **Backend**:
-     ```bash
-     cd ../backend
-     npm install
+     docker-compose up --build
      ```
 
-3. Run the application:
-   - Start the **backend server**:
-     ```bash
-     node server.js
+3. **Access the Application**:
+   - Open the app in your browser at:
      ```
-   - Start the **frontend app**:
-     ```bash
-     cd ../pokemon-collection-frontend
-     ng serve
+     http://localhost:4200
      ```
 
-4. Open the app in your browser:
-   ```
-   http://localhost:4200
-   ```
+### Additional Docker Commands
+- **Stop the containers**:
+  ```bash
+  docker-compose down
+  ```
+- **Rebuild the containers (if necessary)**:
+  ```bash
+  docker-compose up --build
+  ```
+- **Clear persistent data (optional)**:
+  - If you need to clear the volume storing `collected_cards.json`:
+    ```bash
+    docker volume rm tcgp-tracker_backend_data
+    ```
 
 ---
 

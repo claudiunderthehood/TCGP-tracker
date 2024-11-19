@@ -1,0 +1,18 @@
+version: '3.9'
+
+services:
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./backend/data:/app/data # Persist data files
+    restart: always
+
+  frontend:
+    build:
+      context: ./pokemon-collection-frontend
+    ports:
+      - "4200:80" # Serve the Angular app via Nginx
+    restart: always
