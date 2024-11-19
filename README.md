@@ -1,6 +1,6 @@
 # TCGP-tracker 🎴✨
 
-A **Pokémon TCGP Collection Tracker** built with **Angular** and **Node.js** to manage your Pokémon card collection! Track ownership, calculate probabilities, and find the best pack to open next—all wrapped in a sleek UI. Gotta collect 'em all! 🕹️
+A **Pokémon TCGP Collection Tracker** built with **Angular** and **Node.js** to manage your Pokémon card collection! Track ownership, calculate probabilities, and find the best pack to open. Gotta collect 'em all! 🕹️
 
 ---
 
@@ -14,8 +14,8 @@ A **Pokémon TCGP Collection Tracker** built with **Angular** and **Node.js** to
 - **Position Probabilities**: See your chances for each card position (1-3, 4, and 5).
 - **Pack Statistics**: Find out which pack is most worth opening based on your current collection!
 
-### 🎨 **Sleek and Modern UI**
-- Responsive and colorful design for each card pack:
+### 🎨 **Comprehensive and Modern UI**
+- Responsive and colorful design for each card pack. It's still a work in progress since frontend is not my forte:
   - 🟡 **Pikachu Pack**: Bright yellow
   - 🟠 **Charizard Pack**: Bold orange
   - 🟣 **Mewtwo Pack**: Striking purple
@@ -50,13 +50,13 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/claudiunderthehood/TCGP-tracker.git
-   cd pokemon-collection-tracker
+   cd TCGP-tracker
    ```
 
 2. Install dependencies:
    - **Frontend**:
      ```bash
-     cd pokemon-collection-tracker/
+     cd pokemon-collection-frontend/
      npm install
      ```
    - **Backend**:
