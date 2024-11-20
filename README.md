@@ -42,10 +42,7 @@ A **Pokémon TCGP Collection Tracker** built with **Angular** and **Node.js** to
 ## 🎮 Getting Started
 
 ### Prerequisites
-Make sure you have the following installed:
-- **Node.js** (v16 or higher)
-- **Angular CLI** (v15 or higher)
-- **Docker**
+Make sure you have **Docker** installed.
 
 ### Installation and execution
 
